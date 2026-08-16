@@ -22,8 +22,8 @@ Lotus Retail required a centralized, multi-dimensional analytical platform to mo
 Lotus Retail required an analytical solution to evaluate store performance, customer demographics, and product revenue trends across its regional operations. This project delivers an interactive 3-sheet Tableau workbook designed to transform operational transaction and inventory datasets into comparative business intelligence, enabling leadership to benchmark performance across regions and customer segments.
 
 ### Project Objectives
-- Dynamic Financial Visibility: Evaluate core financial trajectories by tracking Total Revenue, Total Cost, Total Profit, and Total Orders seamlessly across regional markets using dynamic parameter controls.
-- Customer Demographic Profiling: Measure purchasing behaviors, lifetime value, and retention rates across distinct age brackets, registration cohorts, and loyalty membership tiers.
+- Dynamic Financial Visibility: Evaluate core financial trajectories by tracking Total Revenue, Total Cost, Total Profit, and Total Orders seamlessly across regional markets.
+- Customer Demographic: Track purchasing habits, order volume, and repeat buying trends, age groups, registration years, and loyalty tiers.
 - Footprint & Channel Efficiency: Assess regional store density, store-type performance (Flagship, Standard, Small), and regional sales volume to optimize retail operational footprints.
 - Merchandise Portfolio Optimization: Identify top-performing brands and low-velocity product categories to streamline stock procurement, clear unproductive inventory, and reduce holding costs.
 
