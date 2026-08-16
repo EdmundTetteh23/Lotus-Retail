@@ -113,7 +113,7 @@ Evaluates physical retail footprint efficiency, regional density, and merchandis
 - Core Purchasing Demographics: Customers aged 30–49 represent the revenue engine of the business, generating E£9.7M (approximately 62%) of total revenue (E£4.8M from 30–39 and E£4.9M from 40–49).
 - Loyalty Tier Concentration: Bronze tier members make up 52% of total customers (1,184) and drive the largest volume (E£7.6M Revenue), while Platinum members (4% of user base) present significant upsell potential.
 
-Store Footprint & Brand Performance
+### Store Footprint & Brand Performance
 - Regional Dominance: Cairo is the top-performing market by a wide margin (E£3.0M Cost/Revenue driver), followed by Alexandria (E£1.5M), while smaller regions like Luxor and Aswan remain underutilized.
 - Flagship Efficiency: Flagship store formats generate the highest revenue density (E£4.5M), followed closely by Standard stores (E£4.2M).
 - Brand Velocity: Nile Fashion (E£5.0M) and Delta Wear (E£4.0M) lead overall brand performance, while tech accessories (routers, power banks) represent the bottom performing product tier.
