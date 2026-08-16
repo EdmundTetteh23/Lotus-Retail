@@ -115,14 +115,14 @@ Evaluates physical retail footprint efficiency, regional density, and merchandis
 
 ### Store Footprint & Brand Performance
 - Regional Dominance: Cairo is the top-performing market by a wide margin (E£3.0M Cost/Revenue driver), followed by Alexandria (E£1.5M), while smaller regions like Luxor and Aswan remain underutilized.
-- Flagship Efficiency: Flagship store formats generate the highest revenue density (E£4.5M), followed closely by Standard stores (E£4.2M).
+- Flagship Efficiency: Flagship stores generate the highest revenue (E£4.5M), followed closely by Standard stores (E£4.2M).
 - Brand Velocity: Nile Fashion (E£5.0M) and Delta Wear (E£4.0M) lead overall brand performance, while tech accessories (routers, power banks) represent the bottom performing product tier.
 
 ## Strategic Recommendations
 - Optimize Cost Structure in High-Volume Regions: Conduct a margin audit on store operations in Cairo and Alexandria to slow cost growth (+8.2% YoY) and bring expenditure growth in line with revenue expansion.
 - Capitalize on Core Demographics: Design targeted promotional campaigns around the 30–49 age segment and create tier-transition incentives to migrate Bronze loyalty members (52% of base) into Silver and Gold tiers.
-- Refine Product Assortment: Evaluate low-performing SKU categories in the bottom 10 products list (e.g., lower-margin tech accessories) to clear unproductive inventory and reallocate shelf space to top apparel brands like Nile Fashion and Delta Wear.
-- Target Weekend Footfall Strategy: Introduce weekend-only promotional bundles or events to activate weekend retail traffic, bridging the gap between weekday volume (E£11.8M) and weekend sales (E£3.8M).
+
+- Target Weekend Footfall Strategy: Introduce weekend-only promotional bundles or events to activate weekend retail traffic, bridging the gap between weekday revenue (E£11.8M) and weekend revenue (E£3.8M).
 
 ## Tech Stack
 - Data Modeling: Tableau Logical Layer
