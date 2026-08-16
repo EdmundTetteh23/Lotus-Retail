@@ -7,7 +7,7 @@ An end-to-end retail performance and dynamic analytics solution built for Lotus 
 - [Data Pipeline and Architecture](#Data-Pipeline-and-Architecture)
 - [Data Transformation and Cleaning](#Data-Transformation-and-Cleaning)
 - [Data Model and Relationships](#Data-Model-and-Relationships)
-- [Core DAX Measures and Formulas](#Core-DAX-Measures-and-Formulas)
+- [Tableau Calculations and Business Logic](#Tableau-Calculations-and-Business-Logic)
 - [Dashboards and Visualizations](#Dashboards-and-Visualizations)
 - [Key Business Insights](#Key-Business-Insights)
 - [Strategic Recommendations](#Strategic-Recommendations)
@@ -17,8 +17,22 @@ An end-to-end retail performance and dynamic analytics solution built for Lotus 
 ## Overview
 Lotus Retail required a centralized, multi-dimensional analytical platform to monitor sales trajectory, customer demographics, and store/product efficiency across operating regions. This project establishes a unified business intelligence framework by modeling transactional, return, and inventory records into a flexible relational structure in Tableau, featuring dynamic metric parameters (Cost, Revenue, Profit, and Orders) paired with Year-Over-Year (YoY) benchmarking.
 
+## Project Brief and Problem Statement
+### Project Brief
+Lotus Retail required an analytical solution to evaluate store performance, customer demographics, and product revenue trends across its regional operations. This project delivers an interactive 3-sheet Tableau workbook designed to transform operational transaction and inventory datasets into comparative business intelligence, enabling leadership to benchmark performance across regions and customer segments.
+
+### Project Objectives
+- Dynamic Financial Visibility: Evaluate core financial trajectories by tracking Total Revenue, Total Cost, Total Profit, and Total Orders seamlessly across regional markets using dynamic parameter controls.
+- Customer Demographic Profiling: Measure purchasing behaviors, lifetime value, and retention rates across distinct age brackets, registration cohorts, and loyalty membership tiers.
+- Footprint & Channel Efficiency: Assess regional store density, store-type performance (Flagship, Standard, Small), and regional sales volume to optimize retail operational footprints.
+- Merchandise Portfolio Optimization: Identify top-performing brands and low-velocity product categories to streamline stock procurement, clear unproductive inventory, and reduce holding costs.
+
 ## Data Pipeline and Architecture
-[Raw Dataset] ➔ [Multi-Fact Data Model] ➔ [Calculated Fields & Parameters] ➔ [Interactive Tableau Workbook ]
+[Raw Dataset] ➔ [Multi-Fact Data Model] ➔ [Calculated Fields & Parameters] ➔ [Interactive Tableau Workbook]
+
+## Data Cleaning and Transformation
+To ensure data integrity and seamless reporting within Tableau, data prep and standardization were performed on the raw files prior to model loading:
+- Customer Gender Standardization: The gender field in the dim_customers table contained inconsistent text formatting across entries (e.g., FEMALE, female, Female). Using Excel's PROPER() function, all string values were standardized to proper title case (Female, Male).
 
 ## Data Model and Relationships
 The data architecture utilizes a multi-fact relational data model built directly within Tableau's logical layer, connecting core transactional tables with descriptive lookup dimensions:
@@ -35,7 +49,7 @@ The data architecture utilizes a multi-fact relational data model built directly
 - dim_date: Date table driving calendar granularity (Year, Month, Day, Day Type, and Ramadan flags).
 - dim_orders: table consisting of order_id to connect two fact tables.
 
-## Tableau Calculations & Business Logic
+## Tableau Calculations and Business Logic
 Analytical logic and metric parameter switching implemented via dynamic Tableau Calculated Fields and Dynamic Parameters
 
 <img width="525" height="320" alt="Current Year Cost" src="https://github.com/user-attachments/assets/d14f76bc-a0c1-4f0f-88cf-862bb4554d99" />
