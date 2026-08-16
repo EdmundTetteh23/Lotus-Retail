@@ -105,7 +105,7 @@ Evaluates physical retail footprint efficiency, regional density, and merchandis
 ## Key Business Insights
 ### Financial & Performance Trends
 - Solid Financial Growth: Lotus Retail recorded E£15.6M in Total Revenue and E£3.3M in Total Profit in 2024, achieving positive YoY growth across all primary metrics (+7.3% Revenue, +4.1% Profit).
-- Cost Expansion Outpacing Profit Growth: Total Cost increased by 8.2% YoY (reaching E£12.3M), rising slightly faster than revenue (+7.3%), signaling slight margin compression due to operational cost pressures.
+- Cost Increase Outpacing Profit Growth: Total Cost increased by 8.2% YoY (reaching E£12.3M), rising slightly more than revenue (+7.3%), signaling slight margin compression due to operational cost pressures.
 - Weekday Dominance: Weekdays generate the vast majority of business activity (E£11.8M Revenue / 2.99K Orders) compared to weekends (E£3.8M Revenue / 1.06K Orders), with Monday and Sunday representing peak individual days.
 
 ### Customer Demographics & Retention
