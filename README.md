@@ -17,13 +17,13 @@ An end-to-end retail performance and dynamic analytics solution built for Lotus 
 ## Overview
 Lotus Retail required a centralized, multi-dimensional analytical platform to monitor sales trajectory, customer demographics, and store/product efficiency across operating regions. This project establishes a unified business intelligence framework by modeling transactional, return, and inventory records into a flexible relational structure in Tableau, featuring dynamic metric parameters (Cost, Revenue, Profit, and Orders) paired with Year-Over-Year (YoY) benchmarking.
 
-⚙️ Data Pipeline and Architecture
-
+## Data Pipeline and Architecture
 [Raw Dataset] ➔ [Multi-Fact Data Model] ➔ [Calculated Fields & Parameters] ➔ [Interactive Tableau Workbook ]
 
 ## Data Model and Relationships
 The data architecture utilizes a multi-fact relational data model built directly within Tableau's logical layer, connecting core transactional tables with descriptive lookup dimensions:
 
+<img width="1579" height="697" alt="Data Model" src="https://github.com/user-attachments/assets/ac46fdf3-7817-4b0c-9394-61fea405f2f4" />
 
 - fact_orders: Central order entity capturing customer ID, employee ID, store ID, order date, order status, payment method, and total cost.
 - fact_order_details: Itemized order line items linked to fact_orders on order_id, tracking product-level pricing, line revenue, discounts, costs, and unit quantities.
