@@ -110,7 +110,7 @@ Evaluates physical retail footprint efficiency, regional density, and merchandis
 
 ### Customer Demographics & Retention
 - High Retention Base: The customer base is exceptionally loyal, with 97% (2,166) classified as returning customers versus only 3% (77) one-time buyers.
-- Core Purchasing Demographics: Customers aged 30–49 represent the revenue engine of the business, generating E£9.7M (~62%) of total revenue (E£4.8M from 30–39 and E£4.9M from 40–49).
+- Core Purchasing Demographics: Customers aged 30–49 represent the revenue engine of the business, generating E£9.7M (approximately 62%) of total revenue (E£4.8M from 30–39 and E£4.9M from 40–49).
 - Loyalty Tier Concentration: Bronze tier members make up 52% of total customers (1,184) and drive the largest volume (E£7.6M Revenue), while Platinum members (4% of user base) present significant upsell potential.
 
 Store Footprint & Brand Performance
