@@ -40,15 +40,21 @@ Analytical logic and metric parameter switching implemented via dynamic Tableau 
 
 <img width="525" height="320" alt="Current Year Cost" src="https://github.com/user-attachments/assets/d14f76bc-a0c1-4f0f-88cf-862bb4554d99" />
 
+
 <img width="524" height="321" alt="Previous Year Cost" src="https://github.com/user-attachments/assets/0e81e7e0-2aa5-4a8c-a39b-1c7e369b0716" />
+
 
 <img width="524" height="322" alt="YoY Cost" src="https://github.com/user-attachments/assets/f8e188b1-e536-49b7-955d-5e31d13e8de4" />
 
+
 <img width="525" height="322" alt="Metric Current Year" src="https://github.com/user-attachments/assets/eab292ad-1df3-4e65-afe1-5e69c73ee616" />
+
 
 <img width="523" height="320" alt="Metric Previous Year" src="https://github.com/user-attachments/assets/ed852d48-1f8b-4f90-afdc-709426fcf404" />
 
+
 <img width="525" height="321" alt="Metric YoY" src="https://github.com/user-attachments/assets/47d3003c-91ba-4af5-a12a-4f65d6710b2d" />
+
 
 - Dynamic Metric Selection: Uses dynamic parameter controls to allow the entire dashboard user interface (charts, bar segments, ranking lists) to instantly switch measure context across Revenue, Cost, Profit, and Orders.
 - Time Intelligence & Comparative Modeling: Employs level-of-detail (LOD) expressions and table calculations to compute Previous Year (PY) baselines for every metric, rendering real-time target indicator lines and percentage variance comparisons (% vs PY).
