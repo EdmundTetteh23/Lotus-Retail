@@ -35,7 +35,7 @@ To ensure data integrity and seamless reporting within Tableau, data prep and st
 - Customer Gender Standardization: The gender field in the dim_customers table contained inconsistent text formatting across entries (e.g., FEMALE, female, Female). Using Excel's PROPER() function, all string values were standardized to proper title case (Female, Male).
 
 ## Data Model and Relationships
-The data architecture utilizes a multi-fact relational data model built directly within Tableau's logical layer, connecting core transactional tables with descriptive lookup dimensions:
+The data architecture utilizes a multi-fact relational data model (Galaxy Data Model) built within Tableau's logical layer, connecting core transactional tables with descriptive lookup dimensions:
 
 <img width="1579" height="697" alt="Data Model" src="https://github.com/user-attachments/assets/ac46fdf3-7817-4b0c-9394-61fea405f2f4" />
 
